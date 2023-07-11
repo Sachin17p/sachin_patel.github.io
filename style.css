@@ -24,6 +24,8 @@
 .logo{
 	width: 200px;
 	cursor: pointer;
+	top: 50px;
+	left: 20px;
 	}
 	
 .navbar ul li{
