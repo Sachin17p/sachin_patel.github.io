@@ -24,6 +24,7 @@
 .logo{
 	width: 200px;
 	cursor: pointer;
+	position: relative;
 	top: 100px;
 	left: 80px;
 	}
